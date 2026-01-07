@@ -1,0 +1,11 @@
+1. ZADANIE LABORATORYJNE
+Narodowy Bank Polski publikuje w witrynie https://static.nbp.pl/dane/kursy/xml/lasta.xml tabelę średnich kursów walut. Zaprojektować narzędzie umożliwiające obliczenie wartości końcowej kwoty w dowolnej walucie docelowej po podaniu przez użytkownika dowolnej ilości środka pieniężnego dowolnej waluty źródłowej.
+UWAGI
+Dokonać dekompozycji problemu
+Uwzględnić zasady SOLID
+A. Warunki zaliczenia zadania
+Złożenie podczas zajęć laboratoryjnych projektu zawierającego
+Diagram klas UML rozwiązania
+Implementację rozwiązania w dowolnym obiektowym języku programowania
+Zaprezentowanie zaimplementowanego rozwiązania
+Rozwiązanie powinno uniemożliwiać wprowadzanie błędnych danych przez użytkownika.
