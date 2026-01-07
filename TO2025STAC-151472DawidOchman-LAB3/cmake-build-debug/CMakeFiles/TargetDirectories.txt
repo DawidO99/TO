@@ -1,0 +1,5 @@
+/home/dawid/Pulpit/IT_College/Semestr_5/TO/TO2025STAC-151472DawidOchman-LAB3/cmake-build-debug/CMakeFiles/SimulationLab3.dir
+/home/dawid/Pulpit/IT_College/Semestr_5/TO/TO2025STAC-151472DawidOchman-LAB3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dawid/Pulpit/IT_College/Semestr_5/TO/TO2025STAC-151472DawidOchman-LAB3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dawid/Pulpit/IT_College/Semestr_5/TO/TO2025STAC-151472DawidOchman-LAB3/cmake-build-debug/CMakeFiles/SimulationLab3_autogen_timestamp_deps.dir
+/home/dawid/Pulpit/IT_College/Semestr_5/TO/TO2025STAC-151472DawidOchman-LAB3/cmake-build-debug/CMakeFiles/SimulationLab3_autogen.dir
