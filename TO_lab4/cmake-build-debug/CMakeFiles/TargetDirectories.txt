@@ -1,0 +1,5 @@
+/home/dawid/Desktop/IT_College/Semestr5/TO/TO_lab4/cmake-build-debug/CMakeFiles/SKKM_Symulator.dir
+/home/dawid/Desktop/IT_College/Semestr5/TO/TO_lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dawid/Desktop/IT_College/Semestr5/TO/TO_lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dawid/Desktop/IT_College/Semestr5/TO/TO_lab4/cmake-build-debug/CMakeFiles/SKKM_Symulator_autogen_timestamp_deps.dir
+/home/dawid/Desktop/IT_College/Semestr5/TO/TO_lab4/cmake-build-debug/CMakeFiles/SKKM_Symulator_autogen.dir

@@ -1,0 +1,5 @@
+/home/dawid/Documents/clion-2025.3/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/dawid/Documents/clion-2025.3/bin/ninja/linux/x64/ninja -G Ninja -S /home/dawid/Desktop/IT_College/Semestr5/TO/TO_lab4 -B /home/dawid/Desktop/IT_College/Semestr5/TO/TO_lab4/cmake-build-debug
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/dawid/Desktop/IT_College/Semestr5/TO/TO_lab4/cmake-build-debug
